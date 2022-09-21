@@ -1,7 +1,73 @@
 body {
-    background-color: peachpuff;
-}  
-   img {
-        max-width: 1000px;
-        width: 100%;
-    }
+    background-image: url(https://static.vecteezy.com/system/resources/thumbnails/002/149/485/small_2x/forest-scene-with-many-trees-free-vector.jpg);
+    /* background-image: url(https://web.archive.org/web/20090821225255/http://geocities.com/christabellang/grasscp.gif); */
+    background-size: cover;
+}
+.title {
+    padding: 20px;
+}
+.dino1 {
+    position: absolute;
+    top: 500px;
+    left: 500px;
+    width: 250px;
+}
+.dino2 {
+    position: absolute;
+    left: 700px;
+    width: 350px;
+
+}
+.dino3 {
+    position: absolute;
+    width: 300px;
+    top: 630px;
+}
+
+.dino4 {
+    position: absolute;
+    width: 300px;
+    top: 1300px;
+    left: 450px;
+}
+
+.dino5 {
+    position: absolute;
+    width: 300px;
+    top: 1200px;
+}
+
+.dino6 {
+    position: absolute;
+    width: 400px;
+    top: 1300px;
+    left: 750px;
+}
+
+.dino7 {
+    position: absolute;
+    width: 300px;
+    top: 850px;
+    left: 200px;
+}
+
+.asteroid {
+    position: absolute;
+    width: 200px;
+    left: 1000px;
+    top: 0;
+}
+
+h1 {
+    color: yellow;
+    letter-spacing: 20px;
+    position: absolute;
+    left: 20px;
+    font-size: 60px;
+}
+
+h3 {
+    color: white;
+    position: absolute;
+    right: 100px;
+}
